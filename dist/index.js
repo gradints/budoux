@@ -510,6 +510,7 @@ const loadDefaultJapaneseParser = () => {
 };
 const parser = loadDefaultJapaneseParser();
 const budouxSelectors = [
+  ".budou-this",
   ".budou-this p",
   ".budou-this span",
   ".budou-this h1",
